@@ -1,0 +1,26 @@
+# ninja log v6
+3	663	7471267395306177	untitled_autogen/timestamp	90d64b2df0bd6246
+3	663	7471267395306177	untitled_autogen/mocs_compilation.cpp	90d64b2df0bd6246
+3	663	7471267395306177	E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	90d64b2df0bd6246
+3	663	7471267395306177	E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	90d64b2df0bd6246
+690	2816	7471267396504513	CMakeFiles/untitled.dir/widget.cpp.obj	2d8f6f8ed04474d5
+701	2862	7471267396615005	CMakeFiles/untitled.dir/mybutton.cpp.obj	31f6a706c4a51316
+667	2866	7471267396271722	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	6a27fcc260c02437
+676	2898	7471267396369707	CMakeFiles/untitled.dir/main.cpp.obj	8e4a52ed48882180
+2898	3366	7471267418581151	untitled.exe	f266a7de5d6d57e0
+13	580	7471275898168406	untitled_autogen/timestamp	90d64b2df0bd6246
+13	580	7471275898168406	untitled_autogen/mocs_compilation.cpp	90d64b2df0bd6246
+13	580	7471275898168406	E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	90d64b2df0bd6246
+13	580	7471275898168406	E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	90d64b2df0bd6246
+603	2641	7471275899252217	CMakeFiles/untitled.dir/widget.cpp.obj	2d8f6f8ed04474d5
+580	2713	7471275899020110	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	6a27fcc260c02437
+590	2726	7471275899106967	CMakeFiles/untitled.dir/main.cpp.obj	8e4a52ed48882180
+8	585	7471277137351636	untitled_autogen/timestamp	90d64b2df0bd6246
+8	585	7471277137351636	untitled_autogen/mocs_compilation.cpp	90d64b2df0bd6246
+8	585	7471277137351636	E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	90d64b2df0bd6246
+8	585	7471277137351636	E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	90d64b2df0bd6246
+609	2827	7471277138557060	CMakeFiles/untitled.dir/widget.cpp.obj	2d8f6f8ed04474d5
+620	2926	7471277138670844	CMakeFiles/untitled.dir/mybutton.cpp.obj	31f6a706c4a51316
+586	2987	7471277138326925	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	6a27fcc260c02437
+596	3018	7471277138431925	CMakeFiles/untitled.dir/main.cpp.obj	8e4a52ed48882180
+3018	3281	7471277162640681	untitled.exe	f266a7de5d6d57e0
