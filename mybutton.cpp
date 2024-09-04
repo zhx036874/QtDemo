@@ -19,7 +19,7 @@ void MyButton::paintEvent(QPaintEvent *event) {
 
     // 绘制圆角矩形
     QRect rect = this->rect();
-    int radius = 15;  // 圆角半径
+    int radius = 15;  // 圆角半径123
     painter.drawRoundedRect(rect, radius, radius);
 
     // 绘制文本
