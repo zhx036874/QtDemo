@@ -346,7 +346,6 @@ E:/QTproject/QML/untitled/mybutton.h
  mdp:E:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
  mdp:E:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:E:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
-E:/QTproject/QML/untitled/main.cpp
 E:/QTproject/QML/untitled/widget.h
  mmc:Q_OBJECT
  mdp:E:/QTproject/QML/untitled/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/untitled_autogen/moc_predefs.h
@@ -688,6 +687,7 @@ E:/QTproject/QML/untitled/widget.h
  mdp:E:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
  mdp:E:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:E:/Qt/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
+E:/QTproject/QML/untitled/main.cpp
 E:/QTproject/QML/untitled/mybutton.cpp
 E:/QTproject/QML/untitled/widget.cpp
  uic:./ui_widget.h
