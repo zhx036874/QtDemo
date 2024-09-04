@@ -1,0 +1,25 @@
+# 忽略所有生成的二进制文件
+*.o
+*.exe
+*.dll
+
+# 忽略 Qt Creator 生成的构建目录
+build/
+debug/
+release/
+
+# 忽略临时文件
+*.tmp
+*.log
+*.bak
+*.swp
+
+# 忽略用户配置文件
+*.user
+*.pro.user
+*.qbs.user
+*.cproject
+*.project
+
+# 忽略 Qt Creator 的 .idea 文件夹（如果使用 CLion 等 IDE）
+.idea/
