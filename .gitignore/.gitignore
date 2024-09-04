@@ -23,3 +23,4 @@ release/
 
 # 忽略 Qt Creator 的 .idea 文件夹（如果使用 CLion 等 IDE）
 .idea/
+/build/
